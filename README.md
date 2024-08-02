@@ -1,4 +1,9 @@
 # AI-music-video-
+
+
+[![Watch the video]](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
+
+
 - https://x.com/karpathy/status/1819229916212474070?s=12
 
 August 1, 2024: The Music Video
