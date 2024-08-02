@@ -1,13 +1,9 @@
 # AI music video built with claude by Anthropic (text) & ideogram_ai (image/jpg) & runwayml Gen 3 Alpha (video / mp4) & Suno ai (musique / mp3) 
 
-
-[Watch the video](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
-
-
-- https://x.com/karpathy/status/1819229916212474070?s=12
-
 August 1, 2024: The Music Video
 Fun hack just stitching up gen AI tools :), in this case to create a music video for today.
+    - https://x.com/karpathy/status/1819229916212474070?s=12
+    - [Watch the video](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
 
 ### Copy paste the entire WSJ front page into Claude  : https://claude.ai/  
     -> ask it to generate multiple scenes and give visual descriptions for them
