@@ -3,8 +3,8 @@
 August 1, 2024: The Music Video
 Fun hack just stitching up gen AI tools :), in this case to create a music video for today.
 
-- copy paste the entire WSJ front page into Claude 
-- ask it to generate multiple scenes and give visual descriptions for them
+- copy paste the entire WSJ front page into Claude  : https://claude.ai/
+  ask it to generate multiple scenes and give visual descriptions for them
 - copy paste scene descriptions into image generator (
 @ideogram_ai
   here)
