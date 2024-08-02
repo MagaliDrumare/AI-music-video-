@@ -3,7 +3,7 @@
 August 1, 2024: The Music Video
 Fun hack just stitching up gen AI tools :), in this case to create a music video for today.
 
-### copy paste the entire WSJ front page into Claude  : https://claude.ai/
+### copy paste the entire WSJ front page into Claude  : https://claude.ai/  
     -> ask it to generate multiple scenes and give visual descriptions for them
 
 " Certainly. I'll provide brief summaries of several scenes from the news articles, along with text descriptions to help visualize them.
@@ -25,8 +25,8 @@ Fun hack just stitching up gen AI tools :), in this case to create a music video
     Visual description: Biles on the podium, gold medal around her neck, wearing a sparkling leotard and a distinctive goat-shaped necklace. She's smiling broadly, with the Olympic rings visible in the background. "
 
 
-### copy paste scene descriptions into image generator :  https://ideogram.ai/
-### copy paste generated images into runwayml Gen 3 Alpha to make each image into a 10-seconds video (4 seconds free). 
+### copy paste scene descriptions into image generator :  https://ideogram.ai/ - https://x.com/ideogram_ai
+### copy paste generated images into runwayml Gen 3 Alpha to make each image into a 10-seconds video (4 seconds free) - https://app.runwayml.com/ - https://x.com/runwayml
 
 ### ask Claude to generate lyrics that depict that day
 Certainly. Here's a set of lyrics depicting the day's events, excluding the prisoner swap scene:
@@ -73,5 +73,5 @@ Certainly. Here's a set of lyrics depicting the day's events, excluding the pris
     
     These lyrics encapsulate the major events of the day as described in the news articles, focusing on the assassination in Iran, the Olympic controversies and triumphs, and the disputed election in Venezuela. The lyrics aim to capture the diversity and often contradictory nature of global events occurring simultaneously around the world.
 
-### copy paste lyrics into suno_ai_to generate music : https://suno.com/
+### copy paste lyrics into suno_ai_to generate music : https://suno.com/ - https://x.com/suno_ai_
 ### stitch things up in iMovie
