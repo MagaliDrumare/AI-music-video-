@@ -1,5 +1,5 @@
 # AI-music-video-
-- 
+- https://x.com/karpathy/status/1819229916212474070?s=12
 
 August 1, 2024: The Music Video
 Fun hack just stitching up gen AI tools :), in this case to create a music video for today.
