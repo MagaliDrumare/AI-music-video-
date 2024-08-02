@@ -1,4 +1,4 @@
-# AI-music-video-Claude (text) & ideogram_ai (image/jpg) & runwayml Gen 3 Alpha (video / mp4) & Suno ai (musique / mp3) 
+# AI music video built with claude by Anthropic (text) & ideogram_ai (image/jpg) & runwayml Gen 3 Alpha (video / mp4) & Suno ai (musique / mp3) 
 
 
 [Watch the video](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
