@@ -4,7 +4,7 @@
 August 1, 2024: The Music Video
 Fun hack just stitching up gen AI tools :), in this case to create a music video for today.
       
-  - [!Watch the video](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
+  - [Watch the video made](https://drive.google.com/file/d/1rRXYE1xdk9a7ieJhFxgxpFOMefrIxVlH/view?usp=sharing)
 
 ### Copy paste the entire WSJ front page into Claude  : https://claude.ai/  
     -> ask it to generate multiple scenes and give visual descriptions for them
