@@ -31,47 +31,47 @@ Fun hack just stitching up gen AI tools :), in this case to create a music video
 ### ask Claude to generate lyrics that depict that day
 Certainly. Here's a set of lyrics depicting the day's events, excluding the prisoner swap scene:
 
-Verse 1:
-In Tehran's shadows, a bomb ticks away
-Hamas leader falls, on this fateful day
-Olympic rings, a stage for strife
-Forty-six seconds change a boxer's life
-
-Chorus:
-Headlines spinning, world in motion
-From sports to war, a day's commotion
-Gold medals shine, while leaders fall
-One day's stories, affecting all
-
-Verse 2:
-Caracas streets echo two victory cries
-González and Maduro, both claim the prize
-Democracy's dance, a tug of war
-While the world watches from afar
-
-(Repeat Chorus)
-
-Bridge:
-Biles takes flight, goat around her neck
-Defying gravity, expectations in check
-From mats to rings, she conquers all
-A golden triumph in the Olympic hall
-
-Verse 3:
-A day of contrast, glory and pain
-Some rise to fame, some fall in vain
-From Venezuela's polls to Iran's dark deed
-A world in flux, at breakneck speed
-
-(Repeat Chorus)
-
-Outro:
-As the sun sets on this August day
-We're left to wonder what tomorrow may say
-In victory and loss, in peace and in strife
-Just another day in this global life
-
-These lyrics encapsulate the major events of the day as described in the news articles, focusing on the assassination in Iran, the Olympic controversies and triumphs, and the disputed election in Venezuela. The lyrics aim to capture the diversity and often contradictory nature of global events occurring simultaneously around the world.
+    Verse 1:
+    In Tehran's shadows, a bomb ticks away
+    Hamas leader falls, on this fateful day
+    Olympic rings, a stage for strife
+    Forty-six seconds change a boxer's life
+    
+    Chorus:
+    Headlines spinning, world in motion
+    From sports to war, a day's commotion
+    Gold medals shine, while leaders fall
+    One day's stories, affecting all
+    
+    Verse 2:
+    Caracas streets echo two victory cries
+    González and Maduro, both claim the prize
+    Democracy's dance, a tug of war
+    While the world watches from afar
+    
+    (Repeat Chorus)
+    
+    Bridge:
+    Biles takes flight, goat around her neck
+    Defying gravity, expectations in check
+    From mats to rings, she conquers all
+    A golden triumph in the Olympic hall
+    
+    Verse 3:
+    A day of contrast, glory and pain
+    Some rise to fame, some fall in vain
+    From Venezuela's polls to Iran's dark deed
+    A world in flux, at breakneck speed
+    
+    (Repeat Chorus)
+    
+    Outro:
+    As the sun sets on this August day
+    We're left to wonder what tomorrow may say
+    In victory and loss, in peace and in strife
+    Just another day in this global life
+    
+    These lyrics encapsulate the major events of the day as described in the news articles, focusing on the assassination in Iran, the Olympic controversies and triumphs, and the disputed election in Venezuela. The lyrics aim to capture the diversity and often contradictory nature of global events occurring simultaneously around the world.
 
 ### copy paste lyrics into suno_ai_to generate music
 ### stitch things up in iMovie
