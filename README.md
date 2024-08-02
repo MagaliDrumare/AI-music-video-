@@ -8,21 +8,21 @@ Fun hack just stitching up gen AI tools :), in this case to create a music video
 
 " Certainly. I'll provide brief summaries of several scenes from the news articles, along with text descriptions to help visualize them.
 
-1. Scene: Assassination of Hamas Leader
-Summary: Ismail Haniyeh, a Hamas leader, was killed by a bomb hidden in a guesthouse in Tehran, Iran.
-Visual description: A damaged interior of a guarded guesthouse in Tehran. Debris scattered across the floor, with security personnel investigating the scene. Smoke still lingering in the air from the explosion.
-
-2. Scene: Olympic Boxing Controversy
-Summary: Italian boxer Angela Carini quit her bout against Algerian Imane Khelif after only 46 seconds, sparking a gender controversy.
-Visual description: A boxing ring with two female boxers, one walking away while removing her gloves. Officials and coaches surrounding the ring, with a confused and tense atmosphere in the arena.
-
-3. Scene: Venezuelan Election Dispute
-Summary: The U.S. recognized Edmundo González as the winner of the Venezuelan election, despite President Nicolás Maduro's claim of victory.
-Visual description: A split scene showing two rallies - one with González supporters waving flags and celebrating, the other with Maduro addressing his followers from a balcony, both claiming victory.
-
-4. Scene: Simone Biles' Olympic Triumph
-Summary: Gymnast Simone Biles won the all-around gold medal at the Olympics, wearing a goat-shaped necklace symbolizing "Greatest of All Time."
-Visual description: Biles on the podium, gold medal around her neck, wearing a sparkling leotard and a distinctive goat-shaped necklace. She's smiling broadly, with the Olympic rings visible in the background. "
+    1. Scene: Assassination of Hamas Leader
+    Summary: Ismail Haniyeh, a Hamas leader, was killed by a bomb hidden in a guesthouse in Tehran, Iran.
+    Visual description: A damaged interior of a guarded guesthouse in Tehran. Debris scattered across the floor, with security personnel investigating the scene. Smoke still lingering in the air from the explosion.
+    
+    2. Scene: Olympic Boxing Controversy
+    Summary: Italian boxer Angela Carini quit her bout against Algerian Imane Khelif after only 46 seconds, sparking a gender controversy.
+    Visual description: A boxing ring with two female boxers, one walking away while removing her gloves. Officials and coaches surrounding the ring, with a confused and tense atmosphere in the arena.
+    
+    3. Scene: Venezuelan Election Dispute
+    Summary: The U.S. recognized Edmundo González as the winner of the Venezuelan election, despite President Nicolás Maduro's claim of victory.
+    Visual description: A split scene showing two rallies - one with González supporters waving flags and celebrating, the other with Maduro addressing his followers from a balcony, both claiming victory.
+    
+    4. Scene: Simone Biles' Olympic Triumph
+    Summary: Gymnast Simone Biles won the all-around gold medal at the Olympics, wearing a goat-shaped necklace symbolizing "Greatest of All Time."
+    Visual description: Biles on the podium, gold medal around her neck, wearing a sparkling leotard and a distinctive goat-shaped necklace. She's smiling broadly, with the Olympic rings visible in the background. "
 
 
 ### copy paste scene descriptions into image generator :  https://ideogram.ai/
