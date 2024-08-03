@@ -76,5 +76,5 @@ Certainly. Here's a set of lyrics depicting the day's events, excluding the pris
     
     These lyrics encapsulate the major events of the day as described in the news articles, focusing on the assassination in Iran, the Olympic controversies and triumphs, and the disputed election in Venezuela. The lyrics aim to capture the diversity and often contradictory nature of global events occurring simultaneously around the world.
 
-### Copy paste lyrics into suno_ai_to generate music : https://suno.com/ - https://x.com/suno_ai_
+### Copy paste lyrics into suno_ai_to generate music : https://suno.com/ - https://x.com/suno_ai_ / https://www.udio.com/
 ### Stitch things up in iMovie
