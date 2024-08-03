@@ -78,3 +78,7 @@ Certainly. Here's a set of lyrics depicting the day's events, excluding the pris
 
 ### Copy paste lyrics into suno_ai_to generate music : https://suno.com/ - https://x.com/suno_ai_ / https://www.udio.com/
 ### Stitch things up in iMovie
+
+# Music Industry Sues AI Startups
+https://www.deeplearning.ai/the-batch/issue-256/
+
